@@ -51,7 +51,7 @@ for i in range(0, len(number), 2):
 print(answer)
 
 # 문제는 한 줄만 수정하는 것이 목표 (재풀이)
-number = int(input()) # 아 제발 좀 뜨지 말라고 시발아
+number = int(input())
 
 answer = 0
 
