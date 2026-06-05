@@ -8,17 +8,22 @@
 
 ## 풀이 목록
 
+<details>
+<summary>2026년 06월</summary>
+
 | 날짜 | 문제 | 난이도 | 풀이 |
 |---|---|---|---|
-| 2026-06-01 | 두 수의 합 | Lv0 | [링크](./programmers/lv0/두_수의_합.py) |
-| 2026-06-02 | 문자 출력 | Lv0 | [링크](./programmers/lv0/문자_출력.py) |
-| 2026-06-02 | 각도 합치기 | Lv0 | [링크](./programmers/lv0/각도_합치기.py) |
-| 2026-06-03 | 수 나누기 | Lv0 | [링크](./programmers/lv0/수_나누기.py) |
-| 2026-06-03 | 심폐소생술 | Lv0 | [링크](./programmers/lv0/심폐소생술.py) |
-| 2026-06-04 | 병과 분류 | Lv0 | [링크](./programmers/lv0/병과분류.py) |
-| 2026-06-04 | 물 부족 | Lv0 | [링크](./programmers/lv0/물_부족.py) |
 | 2026-06-05 | 버스 | Lv0 | [링크](./programmers/lv0/버스.py) |
 | 2026-06-05 | 닉네임 규칙 | Lv0 | [링크](./programmers/lv0/닉네임_규칙.py) |
+| 2026-06-04 | 물 부족 | Lv0 | [링크](./programmers/lv0/물_부족.py) |
+| 2026-06-04 | 병과 분류 | Lv0 | [링크](./programmers/lv0/병과분류.py) |
+| 2026-06-03 | 심폐소생술 | Lv0 | [링크](./programmers/lv0/심폐소생술.py) |
+| 2026-06-03 | 수 나누기 | Lv0 | [링크](./programmers/lv0/수_나누기.py) |
+| 2026-06-02 | 각도 합치기 | Lv0 | [링크](./programmers/lv0/각도_합치기.py) |
+| 2026-06-02 | 문자 출력 | Lv0 | [링크](./programmers/lv0/문자_출력.py) |
+| 2026-06-01 | 두 수의 합 | Lv0 | [링크](./programmers/lv0/두_수의_합.py) |
+
+</details>
 
 ---
 
